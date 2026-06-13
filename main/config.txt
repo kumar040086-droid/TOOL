@@ -1,0 +1,16 @@
+
+[FEATURES]
+esp=1
+aimbot=1
+antenna_line=1
+frame_box=1
+no_grass=1
+no_fog=1
+aura_glow=1
+fps_unlock=1
+sidebar_esp=1
+jump_speed=420
+run_speed=630
+aim_speed=8
+aim_range_rate=1.2
+aim_speed_rate=2.5
