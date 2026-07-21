@@ -1,16 +1,1 @@
-
-[FEATURES]
-esp=0
-aimbot=0
-antenna_line=0
-frame_box=0
-no_grass=0
-no_fog=0
-aura_glow=0
-fps_unlock=0
-sidebar_esp=0
-jump_speed=0
-run_speed=0
-aim_speed=0
-aim_range_rate=0
-aim_speed_rate=0
+PGCONFIG14
